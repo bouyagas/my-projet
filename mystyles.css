@@ -1,1 +1,11 @@
-#container{width: 900px;   margin: 0 auto; background-color:  #808080;}
+#container{font-size:23px; }
+#list,li{color:#ffffff;display: inline;background-color: #000000; margin: 5px; padding: 2px;}
+
+#header{ text-align: center;}
+a:link,a:visited{padding: 08px; margin: 2px;color: #ffffff;text-decoration: none;}
+a:hover,a:active
+{
+	text-decoration: underline;
+	
+	}
+.info{display: inline-block; clear: both; text-align:center;margin: 0px;padding: 1px; }
