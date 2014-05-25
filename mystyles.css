@@ -1,11 +1,17 @@
 #container{font-size:23px; }
 #list,li{color:#ffffff;display: inline;background-color: #000000; margin: 5px; padding: 2px;}
 
-#header{ text-align: center;}
+#header{ text-align: center;font-size: 40px; font-family: sans-serif;"Arial";}
 a:link,a:visited{padding: 08px; margin: 2px;color: #ffffff;text-decoration: none;}
-a:hover,a:active
-{
-	text-decoration: underline;
+a:hover,a:active{text-decoration: underline;}
+#form{display: block;cursor: pointer;color: #000000;text-align: center;font-size: 60px;}
+.gas{background-color: #ffffff;}
+
+
+
+
+
+
+
 	
-	}
-.info{display: inline-block; clear: both; text-align:center;margin: 0px;padding: 1px; }
+
